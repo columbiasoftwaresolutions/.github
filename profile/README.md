@@ -36,8 +36,6 @@ Here’s what our teams are working on this term.
   </tbody>
 </table>
 
-WHOI is Woods Hole Oceanographic Institution. LVAEP is Literacy Volunteers of America, Essex & Passaic.
-
 [More about this term’s projects →](https://www.columbiasoftwaresolutions.com/projects)
 
 <sub>Swipe Market was originally built by Owen Terry and Caroline Smyth; CSS maintains and develops it.</sub>
